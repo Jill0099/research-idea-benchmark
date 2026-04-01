@@ -105,4 +105,4 @@ research-idea-benchmark/
 
 ## License
 
-MIT
+All rights reserved.
